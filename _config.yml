@@ -7,19 +7,17 @@ google_analytics: "UA-46465113-2"
 # UI configs
 title: "Photography by AJ Norton"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "A.J Norton"
 header:
  title: "Photography"
  subtitle: "by A.J Norton"
 footer:
  name: "Hey there, my name is A.J"
- bio: "I am a developer and a tech aficionado from Virginia. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+ bio: "I am a developer and a tech aficionado from Virginia. Love making teeny tiny apps solving tiny problems in life and now learning photography.  Email me at alex.norton.dev@gmail.com for inquiries."
  github: ""
 web_design: "AJ"
 social_urls:
 #  facebook: "https://www.facebook.com/ramswaroop"
 #  twitter: "https://www.twitter.com/ram__patra"
-#  instagram: "https://www.instagram.com/ram_patra"
-#  dribbble: "https://dribbble.com/rampatra"
-#  linkedin: "https://in.linkedin.com/in/ram-patra"
+  instagram: "https://www.instagram.com/aforaj"
   github: "https://www.github.com/ajn123"
